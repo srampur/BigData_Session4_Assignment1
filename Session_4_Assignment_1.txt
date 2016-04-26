@@ -1,0 +1,79 @@
+1. ______is an Open source Data Management software framework with scale - out storage and distributed processing 
+a. Hadoop  
+b. yarn  
+c. Yoman
+d. Android
+
+Ans: a.
+
+2. Which command copies file from local file system to HDFS?
+a. Get
+b. put
+c. ls
+d. copytoLocal
+
+Ans: b.
+
+3. Which command copies file from HDFS to local file system?
+a. get
+b. mkdir
+c. copyfromLocal 
+d. rm
+
+Ans: a.
+
+4. Which command is used to see content of a file in HDFS? 
+a. cat
+b. rm
+c. ls
+d. get
+
+Ans: a.
+
+5. What is the command to list all the files?
+a. mkdir
+b. copy
+c. ls
+d. cat
+
+Ans: c.
+
+6. Which command is used to permanently remove a file?
+a. rm
+b. remove
+c. delete 
+d. del
+
+Ans: a.
+
+7. Who opens the file calling open () method on FileSystem object?
+a. machine
+b. Hadoop system
+c. automatic
+d. client
+
+Ans: b.
+
+8. ______provides  scalable, fault tolerant, cost efficient method for Data storage.
+a. yarn 
+b. SAN 
+c. ExtJs 
+d. HDFS
+
+Ans: d.
+
+9. HDFS & YARN are the _____components of Hadoop.
+a. sub-component
+b. alternative 
+c. secondary  
+d. core
+
+Ans: d.
+
+10. ______database is Next Generation Database and are mostly address some of the points:non-relational,distributed 
+a. Nosql
+b. static-database
+c. MongoDB
+d. RDBMS
+
+Ans: c.
